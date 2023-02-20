@@ -1,2 +1,4 @@
 #requirement.txt
-snowflake-connector-python
+pip uninstall snowflake
+#snowflake-connector-python
+pip install snowflake-connector-python==2.8.3
