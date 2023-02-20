@@ -1,4 +1,1 @@
-#requirement.txt
 pip install snowflake-connector-python
-#snowflake-connector-python
-#pip install snowflake-connector-python==2.8.3
